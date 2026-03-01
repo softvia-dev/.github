@@ -1,45 +1,68 @@
 <div align="center">
   <h1>🚀 Softvia</h1>
-  <p><b>Next-Generation Software Studio & Digital Solution Partner</b></p>
+  <p><b>Next-Generation Software Studio & Long-Term Technology Partner</b></p>
+  <p>We build fast, scalable, and revenue-focused digital systems for ambitious brands.</p>
 
-  <a href="https://softvia.com">
-    <img src="https://img.shields.io/badge/Website-softvia.com-0052FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://softvia.com.tr">
+    <img src="https://img.shields.io/badge/Website-softvia.com.tr-0052FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
-  <a href="https://twitter.com/SoftviaOfficial">
-    <img src="https://img.shields.io/badge/Twitter-X-black?style=for-the-badge&logo=x&logoColor=white" />
+  <a href="https://x.com/softviaofficial">
+    <img src="https://img.shields.io/badge/X-SoftviaOfficial-black?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="mailto:hello@softvia.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Us-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/company/softvia-teknoloji">
+    <img src="https://img.shields.io/badge/LinkedIn-Softvia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hello@softvia.com.tr">
+    <img src="https://img.shields.io/badge/Email-dev@softvia.com.tr-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
 ---
 
-### 💻 About Us
-At **Softvia**, we bridge the gap between complex technology and sustainable business growth. Specializing in the **Next.js** ecosystem, we build lightning-fast, scalable, and modern digital infrastructures specifically tailored for SMEs and high-growth startups.
+## 💻 About Softvia
+At **Softvia**, we turn complex technology into clear business outcomes.  
+Our team designs and delivers modern digital infrastructure for SMEs, startups, and growth-stage companies.
 
-### 🛠 Tech Stack
-We take pride in using the most modern and efficient tools to deliver high-performance solutions:
+We focus on:
+- High-performance **Next.js** architecture
+- Scalable **SaaS** foundations
+- Conversion-driven **Headless Commerce**
+- Practical **AI-powered** product integrations
 
+---
+
+## 🛠 Core Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Tailwind-111111?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Shopify-111111?style=for-the-badge&logo=shopify&logoColor=95BF47" />
+  <img src="https://img.shields.io/badge/Sanity-111111?style=for-the-badge&logo=sanity&logoColor=F03E2F" />
+  <img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
 </p>
 
 ---
 
-### ✨ Core Services
-- **Web Development:** SEO-optimized, ultra-fast applications powered by Next.js.
-- **E-Commerce Solutions:** Modern, conversion-focused platforms designed to scale.
-- **Design & UI/UX:** User-centric interfaces that combine aesthetics with functionality.
-- **Digital Consulting:** Strategic technology roadmaps for startups and growing businesses.
+## ✨ What We Deliver
+- **Web Platforms:** Fast, SEO-ready, scalable web experiences
+- **Headless E-Commerce:** Flexible commerce systems built for growth
+- **SaaS Products:** Maintainable architecture for long-term scale
+- **UI/UX Systems:** Clean, conversion-oriented interfaces
+- **AI Integrations:** Automation and intelligence that support real operations
+
+---
+
+## 🤝 Working Style
+- Product-minded engineering
+- Transparent communication
+- Lean, high-ownership delivery
+- Long-term technical sustainability
 
 ---
 
 <div align="center">
-  <sub>Developing the future, one commit at a time. | <b>© 2026 Softvia</b></sub>
+  <sub>Building the future of digital products, one release at a time. | <b>© 2026 Softvia</b></sub>
 </div>
