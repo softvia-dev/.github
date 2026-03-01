@@ -1,7 +1,11 @@
 <div align="center">
   <h1>🚀 Softvia</h1>
-  <p><b>Next-Generation Software Studio & Long-Term Technology Partner</b></p>
-  <p>We build fast, scalable, and revenue-focused digital systems for ambitious brands.</p>
+    <p><b>Next-Generation Software Studio & Long-Term Technology Partner</b></p>
+
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=18&pause=1200&color=4F46E5&center=true&vCenter=true&width=720&lines=%24+whoami+softvia;%24+build+--nextjs+--shopify-headless;%24+ship+saas+--fast+--scalable;%24+integrate+ai+--production-ready" alt="Bash Typing Intro" />
+
+  ---
 
   <a href="https://softvia.com.tr">
     <img src="https://img.shields.io/badge/Website-softvia.com.tr-0052FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
@@ -18,6 +22,7 @@
 </div>
 
 ---
+
 
 ## 💻 About Softvia
 At **Softvia**, we turn complex technology into clear business outcomes.  
